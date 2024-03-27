@@ -1,0 +1,21 @@
+.art{
+    background-color: beige;
+    width: 500px;
+    max-width: 100%;
+    margin-top: 40px;
+    border: 1px solid gray;
+    box-shadow: 4px 4px gray;
+}
+.art:hover{
+    box-shadow: 4px 4px darksalmon;
+    transform: translate(2s);
+    padding-top: 2px;
+}
+.sec{
+    display: flex;
+    gap: 20px;
+    font-size: 1.5rem;
+}
+p{
+    font-style: italic;
+}
